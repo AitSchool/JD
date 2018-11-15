@@ -1,0 +1,27 @@
+<view class="page-container">
+  <view class="detail-info">
+    <image src="/images/logo.jpg"></image>
+    <view class ="detail-info-text">
+      <view>订单号：123234234234</view>
+      <view>信息来源：京东快递</view>
+    </view>
+  </view>
+  <view class="detail-list">
+    <view class="detail-item">
+      <view class="detail-item-ontext">在哪里</view>
+      <view class="detail-item-date">2018-12-12</view>
+    </view>
+    <view class="detail-item">
+      <view class="detail-item-ontext">在哪里</view>
+      <view class="detail-item-date">2018-12-12</view>
+    </view>
+    <view class="detail-item">
+      <view class="detail-item-ontext">在哪里</view>
+      <view class="detail-item-date">2018-12-12</view>
+    </view>
+    <view class="detail-item">
+      <view class="detail-item-ontext">在哪里</view>
+      <view class="detail-item-date">2018-12-12</view>
+    </view>
+  </view>
+</view>

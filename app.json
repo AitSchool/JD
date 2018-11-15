@@ -1,0 +1,10 @@
+{
+	"pages": [
+		"pages/detail/detail",
+		"pages/index/index"
+	],
+	"window": {
+		"navigationBarTitleText": "京东快递",
+		"navigationBarBackgroundColor": "#ff5a5f"
+	}
+}
